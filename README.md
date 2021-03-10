@@ -10,7 +10,8 @@ PupperCoin.sol
 
 The PupperCoin code, you will need to compile the code. 
 
-![image](https://user-images.githubusercontent.com/69773959/110515306-7c76b880-80c5-11eb-9f39-e61bd247cf3e.png)
+![image](https://user-images.githubusercontent.com/69773959/110580606-41f13800-8126-11eb-8cb4-2ed5fa7a96cb.png)
+
 
 
 
