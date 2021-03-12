@@ -24,6 +24,7 @@ Once you compile, open PupperCoinCrowdsale.sol and add your code.
 
 ![image](https://user-images.githubusercontent.com/69773959/110874549-2bb3bb00-8291-11eb-9202-c410c6ec78db.png)
 
+![image](https://user-images.githubusercontent.com/69773959/110961514-1ed4ad00-830d-11eb-98a9-736e143ab418.png)
 
 
 
