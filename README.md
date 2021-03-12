@@ -8,23 +8,21 @@ In this homework assignment, we are given a couple start up codes
 
 PupperCoin.sol
 
+Crowdsale.sol --- I changed my code to PupperCoinCrowdsale
+
 The PupperCoin code, you will need to compile the code. 
 
-![image](https://user-images.githubusercontent.com/69773959/110580606-41f13800-8126-11eb-8cb4-2ed5fa7a96cb.png)
+![image](https://user-images.githubusercontent.com/69773959/110874314-c19b1600-8290-11eb-85a0-f5096adec0bd.png)
 
-![image](https://user-images.githubusercontent.com/69773959/110706690-7f50d680-81b5-11eb-82e5-8f04e7c93471.png)
-
-![image](https://user-images.githubusercontent.com/69773959/110706807-a60f0d00-81b5-11eb-8b21-4447307554f4.png)
+Make sure your compiler is on 0.5.5 before you compile
 
 
+![image](https://user-images.githubusercontent.com/69773959/110874438-f909c280-8290-11eb-9892-f46f0e233d0b.png)
 
-The PupperCoinCrowsale
 
-![image](https://user-images.githubusercontent.com/69773959/110706365-f9349000-81b4-11eb-8f21-fe13fcb14d46.png)
+Once you compile, open PupperCoinCrowdsale.sol and add your code. 
 
-![image](https://user-images.githubusercontent.com/69773959/110707160-233a8200-81b6-11eb-93d7-0245aa35881a.png)
-
-![image](https://user-images.githubusercontent.com/69773959/110707224-3b120600-81b6-11eb-8bd6-d720e23babf2.png)
+![image](https://user-images.githubusercontent.com/69773959/110874549-2bb3bb00-8291-11eb-9202-c410c6ec78db.png)
 
 
 
@@ -32,4 +30,3 @@ The PupperCoinCrowsale
 
 
 
-Crowdsale.sol
