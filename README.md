@@ -58,6 +58,7 @@ Add token and buy token
 ![image](https://user-images.githubusercontent.com/69773959/111006869-cfad6d00-834a-11eb-8c8f-917c5e2aa085.png)
 
 
+![image](https://user-images.githubusercontent.com/69773959/111006981-06838300-834b-11eb-9e2b-850d3b78bf7b.png)
 
 
 
